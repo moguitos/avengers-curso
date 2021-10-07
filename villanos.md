@@ -5,3 +5,4 @@
 * Dr. Octopus
 * Lockie
 * Magneto
+* Dr. Herrera
